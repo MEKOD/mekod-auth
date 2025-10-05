@@ -206,5 +206,3 @@ const prisma = new PrismaClient({ log: ['query','error'] });
 Lisans
 
 MIT © 2025 Mert Turkoglu
-
-İstersen mini logo / badge, veya OpenAPI (Swagger) ekleyen bir PR checklist’i de yazabilirim; ama şu haliyle “kur → çalıştır → test et → deploy” akışı tam.
