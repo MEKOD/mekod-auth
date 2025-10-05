@@ -1,0 +1,14 @@
+# Node / TS
+node_modules/
+dist/
+*.log
+
+# Env & local DB
+.env
+**/.env
+prisma/*.db
+prisma/*.db-journal
+
+# Misc
+cj
+.DS_Store
